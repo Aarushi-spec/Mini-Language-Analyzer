@@ -1,0 +1,14 @@
+int age;
+float marks;
+string name;
+bool passed;
+
+age = 20;
+marks = 85.5;
+name = "Aarushi";
+passed = true;
+
+print(age);
+print(marks);
+print(name);
+print(passed);

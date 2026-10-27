@@ -1,0 +1,8 @@
+int age;
+int age;
+string name;
+
+age = "twenty";
+score = 90;
+print(total);
+name = 100;
